@@ -1,3 +1,13 @@
+# CJ's First CS193 Homework
+
+Welcome to CJ's first assignment for his CS 19300 class. There's no doubt that this class is going to be a lot of fun this semester, but to get things started, here's a few pf CJ's favorite things so far:
+
+- The class only meets once a week (plus POs); no stress!
+- The class is taught by college students, for college students
+- It's filled with memes!
+- The class has a Piazza page, which is super useful for asking questions
+- iClicker quizzes = EZ attendance points
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
